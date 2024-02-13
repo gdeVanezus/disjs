@@ -1,0 +1,29 @@
+{
+  "name": "disjs",
+  "version": "0.10.0",
+  "description": "Discord API library for JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarpHome/disjs.git"
+  },
+  "keywords": [
+    "discord",
+    "js",
+    "javascript",
+    "disjs",
+    "discordjs"
+  ],
+  "author": "darp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DarpHome/disjs/issues"
+  },
+  "homepage": "https://github.com/DarpHome/disjs#readme",
+  "dependencies": {
+    "ws": "^8.16.0"
+  }
+}

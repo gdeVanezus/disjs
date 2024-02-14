@@ -43,7 +43,6 @@ class Client extends EventEmitterExt {
         this.shardCount = shardCount;
     }
 
-
     listen(event, f) {
         this.on('dispatch', (received) => {
             if (received.name !== event) return;
